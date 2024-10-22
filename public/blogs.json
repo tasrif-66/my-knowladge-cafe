@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "cover": "https://images.unsplash.com/photo-1560807707-8cc77767d783?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "title": "The Future of AI",
+    "author": "John Doe",
+    "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
+    "post_date": "2024-10-15",
+    "reading_time": 5,
+    "hash_tag": "#AI #Future #Technology",
+    "bookmark": false
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co.com/dmwwRB3/imgcover.jpg",
+    "title": "Mastering JavaScript",
+    "author": "Jane Smith",
+    "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
+    "post_date": "2024-09-20",
+    "reading_time": 8,
+    "hash_tag": "#JavaScript #WebDev",
+    "bookmark": true
+  },
+  {
+    "id": 3,
+    "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "title": "Understanding React",
+    "author": "Emily Johnson",
+    "author_img": "https://randomuser.me/api/portraits/women/3.jpg",
+    "post_date": "2024-10-10",
+    "reading_time": 7,
+    "hash_tag": "#React #Frontend",
+    "bookmark": false
+  },
+  {
+    "id": 4,
+    "cover": "https://images.unsplash.com/photo-1509529711801-deac231925ac?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "title": "The Art of Design",
+    "author": "Michael Lee",
+    "author_img": "https://randomuser.me/api/portraits/men/4.jpg",
+    "post_date": "2024-08-25",
+    "reading_time": 6,
+    "hash_tag": "#Design #Creativity",
+    "bookmark": true
+  },
+  {
+    "id": 5,
+    "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "title": "Exploring Node.js",
+    "author": "Chris Evans",
+    "author_img": "https://randomuser.me/api/portraits/men/5.jpg",
+    "post_date": "2024-10-05",
+    "reading_time": 10,
+    "hash_tag": "#NodeJS #Backend",
+    "bookmark": false
+  }
+]
